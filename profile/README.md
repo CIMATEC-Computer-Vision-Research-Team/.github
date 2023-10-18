@@ -9,17 +9,18 @@ Study, research and develop Visual Computing systems.
 Lucas Amparo Barbosa, M.Sc.
 
 ### Members
-João Pedro Almeida do Espirito Santo
-
 Eduardo Fiscina Menezes Moraes
 
 Eric Cerqueira Lima de Menezes
 
 Julia Maria Nascimento Ribeiro
 
+Pedro Martins de Oliveira Menezes
 
 ### Past members
-N/A
+João Pedro Almeida do Espirito Santo
+
+### Partial Collaborators
 
 ## Current Projects
 * Python LogBook (Under Development)
