@@ -1,5 +1,5 @@
 # SENAI CIMATEC Computer Vision Research Group
-<p align="center"><img src="https://github.com/CIMATEC-Computer-Vision-Research-Team/.github/assets/5599946/4616375a-8f2e-43f3-bd56-68f534b7485b" /></p>
+<p align="center"><img src="https://github.com/CIMATEC-Computer-Vision-Research-Team/.github/blob/main/senai%20cimatec_color.png" width="500px"/></p>
 
 ## Objectives
 Study, research and develop Visual Computing systems.
