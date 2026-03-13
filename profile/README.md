@@ -43,3 +43,6 @@ Lucas Amparo Barbosa, M.Sc.
 
 ## Research Papers
 - [Lucas Amparo Barbosa](lucasamparo.github.io/en)
+
+## Publications
+- [UAV-Driven Maritime Object Detection and Classification: Literature Review of AI Models, Data and Performance](https://doity.com.br/anais/senaicimatec/trabalho/473432)
