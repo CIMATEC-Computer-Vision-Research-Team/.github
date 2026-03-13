@@ -8,24 +8,38 @@ Study, research and develop Visual Computing systems.
 ### Coordinators
 Lucas Amparo Barbosa, M.Sc.
 
-### Members
-Eduardo Fiscina Menezes Moraes
+### Researchers
+#### Centro de Competências Aeronáutica & Drones
 
-Eric Cerqueira Lima de Menezes
+[Giselly Alves Reis](https://github.com/gisellyreis)
 
-Julia Maria Nascimento Ribeiro
+[Ana Beatriz Alves Hougaz](https://github.com/AnaHougaz)
 
-Pedro Martins de Oliveira Menezes
+[Gabriel Batista Reis](https://github.com/GabrielBReis)
+
+[Laurinne Lorenna Cristina Toscano Lira de Oliveira](https://github.com/ALaurinne)
+
+#### Intership Initiatives
+
+[Arthur Moreira](https://github.com/WolfatoBR/)
+
+[João Pedro Almeida]()
 
 ### Past members
-João Pedro Almeida do Espirito Santo
+[João Pedro Almeida do Espirito Santo](#)
+
+[Eduardo Fiscina Menezes Moraes](https://github.com/duducaa)
+
+[Eric Cerqueira Lima de Menezes](#)
+
+[Julia Maria Nascimento Ribeiro](#)
+
+[Pedro Martins de Oliveira Menezes](url)
 
 ### Partial Collaborators
 
 ## Current Projects
-* Python LogBook (Under Development)
-  - Server Side API
-  - Client Side GUIs
+* Object Detection using UAVs
 
 ## Research Papers
-N/A
+- [Lucas Amparo Barbosa](lucasamparo.github.io/en)
